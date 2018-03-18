@@ -1,7 +1,14 @@
-cytoscape-supportimages
+cytoscape-supportimages-port
 ================================================================================
-##Trying to port this plugin to support v3.x.
+## Trying to port this plugin to support v3.x.
 Any Help is appreciated!
+Notes: 
+ * The latest cytoscape supported is : 2.6.13
+ * Breaks at 2.7
+
+
+
+
 
 ## Description
 
