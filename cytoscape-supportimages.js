@@ -748,7 +748,7 @@
 
                 var supportImages = supportImageExt.images();
                 var resizeControls = supportImageExt.resizeControls();
-                var pos = evt.cyPosition;
+                var pos = evt.position;
 
                 if (supportImageExt.selectedImage()){
                     var idx, len;
@@ -827,8 +827,8 @@
             function getMousePosition(evt) {
                 //console.log(evt);
                 return {
-                    x: evt.cyRenderedPosition.x,
-                    y: evt.cyRenderedPosition.y
+                    x: evt.renderedPosition.x,
+                    y: evt.renderedPosition.y
                 };
             }
             var evtState = supportImageExt._private.evtState;
