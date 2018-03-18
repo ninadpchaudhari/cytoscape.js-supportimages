@@ -6,7 +6,9 @@ Notes:
  * The latest cytoscape supported is : 2.6.13
  * Breaks at 2.7
 
-
+## Useful links (porting guides by cytoscape) : 
+ * https://github.com/cytoscape/cytoscape.js/issues/1092
+ * http://blog.js.cytoscape.org/2017/04/11/3.0.0-release/#api-changes-and-migration
 
 
 
